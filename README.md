@@ -15,7 +15,7 @@
 
 ## Шаблоны разработки :page_facing_up:
 - [Отбор прав в рамках регламента](http://fake.link) ![RX](https://lh3.googleusercontent.com/proxy/73cTOa9DiNEx7LJKfzBbld_5CUJqhC9ineBm3wvznvCWok-7HI4nVSXabrXWmQFD4zSphfQHUya0DnjvTpal0bFEW-XexA) - описание решение, чтобы прям захотелось нажать
-- [Периодические поручения](http://fake.link) ![RX](https://lh3.googleusercontent.com/proxy/73cTOa9DiNEx7LJKfzBbld_5CUJqhC9ineBm3wvznvCWok-7HI4nVSXabrXWmQFD4zSphfQHUya0DnjvTpal0bFEW-XexA) - описание решение, чтобы прям захотелось нажать
+- :heavy_heart_exclamation: [Периодические поручения](https://github.com/Partners3000/rx-template-periodic-actionitems) ![RX](https://lh3.googleusercontent.com/proxy/73cTOa9DiNEx7LJKfzBbld_5CUJqhC9ineBm3wvznvCWok-7HI4nVSXabrXWmQFD4zSphfQHUya0DnjvTpal0bFEW-XexA) - описание решение, чтобы прям захотелось нажать
 - [Хранение настроек](http://fake.link) ![RX](https://lh3.googleusercontent.com/proxy/73cTOa9DiNEx7LJKfzBbld_5CUJqhC9ineBm3wvznvCWok-7HI4nVSXabrXWmQFD4zSphfQHUya0DnjvTpal0bFEW-XexA) - описание решение, чтобы прям захотелось нажать
 ---
 
