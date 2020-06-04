@@ -4,7 +4,10 @@
 
 ![RX](https://www.directum.ru/application/images/logo-rx.svg)
 
-![RX](https://www.directum.ru/application/images/logo-directum.svg)
+## Коннекторы к системам :outbox_tray:
+- [Коннектор к 1С](http://fake.link) - описание решение, чтобы прям захотелось нажать
+- [Коннектор к SAP](http://fake.link) - описание решение, чтобы прям захотелось нажать
 
-## Доступные для скачивания
-https://github.com/iamktn/rx-template-periodic-actionitems
+
+![DIR5](https://www.directum.ru/application/images/logo-directum.svg)
+
